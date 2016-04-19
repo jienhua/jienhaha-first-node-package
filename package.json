@@ -1,0 +1,23 @@
+{
+  "name": "jienhaha-first-node-package",
+  "version": "1.0.0",
+  "description": "My very first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jienhua/jienhaha-first-node-package.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "jienhua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jienhua/jienhaha-first-node-package/issues"
+  },
+  "homepage": "https://github.com/jienhua/jienhaha-first-node-package#readme"
+}
